@@ -1,0 +1,17 @@
+.containnerModal {
+    display: flex;
+    align-items: center;
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    --tw-bg-opacity: 1;
+    background-color: rgb(107 114 128 / var(--tw-bg-opacity));
+    --tw-bg-opacity: 0.75;
+}
+
+.modal {
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,54 @@
+{ "Decks": [
+    { 
+    "id": "1",
+    "name": "Estudio Ingles",
+    "Cards": [ "1", "3", "5" ],
+    "emoji": "📚​"
+    },
+    {
+      "id": "2",
+    "name": "Programacion code",
+    "Cards": [ "4", "6", "7"],
+    "emoji": "💻"
+    }  
+  ],
+
+"Cards": [
+  {
+    "id": "1",
+    "front": "What are you doing?",
+    "back": "¿Que estas haciendo?",
+    "urlImage":""                           
+  },
+  {
+    "id": "3",
+    "front": "Where are you from?",
+    "back": "¿De donde eres?",
+    "urlImage":""
+  },           
+  {
+    "id": "5",
+    "front": "What about you?",
+    "back": "¿Que hay sobre ti?",
+    "urlImage":""            
+  },
+  {
+    "id": "4",
+    "front": "CSS - Justify-content",
+    "back": "Centra horizontalmente dentro de display flex",
+    "urlImage":""                              
+  },
+  {
+    "id": "6",
+    "front": "JS - Map",
+    "back": "Devuelve un nuevo array habiendo recorrido cada elemento",
+    "urlImage":""
+  },           
+  {
+    "id": "7",
+    "front": "CSS - font-size",
+    "back": "Aplica el tamaño de fuente al elemento",
+    "urlImage":""            
+  }] 
+}
+

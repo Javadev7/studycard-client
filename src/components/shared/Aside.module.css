@@ -1,0 +1,30 @@
+.containner_aside {
+  position: relative;
+  display: flex;
+}
+
+.aside {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background: #202124;
+  height: 100%;
+  width: 15rem;
+
+}
+
+.button {
+  display: flex;
+  margin: 2rem;
+  justify-content: center;
+  background: #ACC307;
+  font-weight: bold;
+  padding: 1rem;
+  border: none;
+  border-radius: 15px;
+  font-size: 12px;
+  cursor: pointer;
+  color: #fff;
+  line-height: 1.25rem;
+  text-decoration: none;
+}

@@ -1,0 +1,50 @@
+.containner {
+    display: flex;
+    margin: 14rem;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.card {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        border-radius: 15px;
+        background: #202124;
+        padding: 1rem 2rem;
+    
+}
+
+.text1{
+    color: #fff;
+    padding: 20px;
+}
+
+.options {
+    padding: 3px;
+    margin-inline: 20px;
+}
+
+.allButtons{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.button {
+    display: flex;	
+    background: #ACC307;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 12px;
+}
+
+.icon{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
